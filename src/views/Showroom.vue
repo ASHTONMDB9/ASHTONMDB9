@@ -6,7 +6,7 @@
         <div class="container-fluid">
             <div id="function" class="d-flex justify-content-center border-0 me-5 ms-5">
               
-              <!-- <select class="form-select ms-3 me-3" style="width: 200px;" aria-label="Default select example">
+              <select class="form-select ms-3 me-3" style="width: 200px;" aria-label="Default select example">
                 <option selected>Price</option>
                 <option value="1">€20,000-34,000</option>
                 <option value="2">€35,000-51,000</option>
@@ -15,7 +15,7 @@
                 <option value="5">€100,000-119,000</option>
                 <option value="6">€120,000-299,000</option>
                 <option value="7">€300,000-500,000</option>
-              </select> -->
+              </select>
               
               <select class="form-select ms-3 me-3" id="track" onchange="filter2()" style="width: 110px;" aria-label="Default select example">
                 <option selected value="all">Traction</option>
