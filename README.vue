@@ -1,6 +1,6 @@
 About Me
 
-Full name:</span> Ashton Abrahams
+Full name: Ashton Abrahams
 
 Hi there! I'm Ashton — a consistent and committed developer with
 an optimistic and artistic mind. I've been fascinated with
